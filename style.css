@@ -1,0 +1,44 @@
+.Headings1
+{
+font-size: 40px;
+text-align: center;
+font-family: 'Courier New', Courier, monospace;
+}
+#banner1
+{
+border-radius: 50%;
+width: 50px;
+}
+#banner1:hover
+{
+border-width: 5px;
+border-style: outset;
+border-color: blueviolet;
+}
+table,tr, td, th
+{
+border-width: 4px;
+border-style: outset;
+background-color: #c98aeb;
+border-color: rgb(61, 7, 89);
+
+}
+tr, td, th
+{
+padding: 10px;
+}
+table, th, tr, td:hover {
+    background-color: rgb(98, 11, 142);;
+    color: white;
+}
+th{
+    background-color: #c98aeb;
+}
+th:hover{
+    background-color: rgb(98, 11, 142);
+    color: white;
+}
+th, tr, td{
+    padding: 10px;
+    color: rgb(50, 7, 72);
+    }
